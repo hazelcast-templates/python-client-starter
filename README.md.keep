@@ -18,7 +18,7 @@ This project contains the minimal code to connect a Hazelcast Python Client to a
    ```
 4. Install the requirements
    ```
-   pip install -r requirements
+   pip install -r requirements.txt
    ```
 5. Run the code with the default cluster configuration:
    ```
